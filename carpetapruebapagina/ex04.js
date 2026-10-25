@@ -1,4 +1,4 @@
-let nobre,edad,direccion,movil,email; 
+let nombre,edad,direccion,movil,email; 
 //se puede declarar varias variables del mismo tiempo.
 
 //prompt es una palabra reservada en Javascript que despliegue una funcion y sale un mensaje de tipo alert para el usuario.
