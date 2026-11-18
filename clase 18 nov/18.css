@@ -1,0 +1,27 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    color:#ab0202;
+}
+
+div{
+    border: 8px solid #000000;
+}
+
+.clase-caja{
+    border: 8px solid #e8ac09;
+    background-color: #ff000071;
+}
+
+.clase-parrafo{
+    color: #020101;
+}
+
+#fotografia{
+    border: 8px solid   #000000;
+    width: 300px;
+}
